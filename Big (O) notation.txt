@@ -1,0 +1,11 @@
+Big (o) Notation : It measure how the execution time and space of the program incease as the the Input increases.
+
+Ex : we have 2 codes - how do we find which one is the best practise.
+
+    do we choose code which runs at shorter time - (time Complexity )
+
+    or
+
+    do we choose which occupies less memory - (Space Complexity)
+
+--> Best way is to find the Number of computation it is doing. ( Big (o) Method)
